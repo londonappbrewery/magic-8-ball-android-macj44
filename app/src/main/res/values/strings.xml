@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="ask">Ask</string>
+    <string name="make_everybody_decisions_easier">Make everybody decisions easier!</string>
+    <string name="todo">TODO</string>
+    <string name="make_everyday_easire">Make everyday easire!</string>
+    <string name="ask">Ask</string>
 </resources>
